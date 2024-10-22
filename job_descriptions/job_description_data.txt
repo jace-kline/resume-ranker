@@ -1,0 +1,55 @@
+Job Title: Entry-Level Data Scientist/Engineer
+Company: Palantir Technologies
+Location: Palo Alto, CA (Hybrid)
+Job Type: Full-time
+
+Summary:
+Palantir Technologies is seeking a talented and motivated Entry-Level Data Scientist/Engineer to join our dynamic team. In this role, you will work on challenging problems at the intersection of data science and engineering, helping to transform complex data into actionable insights for our clients. You'll have the opportunity to work with cutting-edge technologies and contribute to projects that have a real-world impact across various industries.
+
+Responsibilities:
+- Collaborate with cross-functional teams to understand client needs and translate them into data-driven solutions
+- Develop and implement data pipelines to collect, process, and analyze large-scale datasets
+- Apply statistical and machine learning techniques to extract insights and build predictive models
+- Design and create data visualizations to effectively communicate findings to technical and non-technical stakeholders
+- Optimize data infrastructure for improved performance and scalability
+- Participate in the full software development lifecycle, from conception to deployment and maintenance
+- Stay current with emerging technologies and best practices in data science and engineering
+
+Minimum Requirements:
+- Bachelor's degree in Computer Science, Data Science, Statistics, Mathematics, or a related technical field
+- Strong programming skills in Python and SQL
+- Familiarity with data analysis libraries such as Pandas, NumPy, and Scikit-learn
+- Basic understanding of machine learning concepts and algorithms
+- Experience with data visualization tools (e.g., Matplotlib, Seaborn, or Tableau)
+- Solid foundation in statistics and probability
+- Excellent problem-solving and analytical skills
+- Strong communication and teamwork abilities
+
+Preferred Qualifications:
+- Master's degree in a relevant field
+- Experience with big data technologies (e.g., Hadoop, Spark)
+- Knowledge of cloud computing platforms (AWS, GCP, or Azure)
+- Familiarity with version control systems (Git)
+- Experience with data warehousing concepts
+- Contributions to open-source projects or research publications
+- Internship or project experience in data science or data engineering
+
+Skills:
+- Python
+- SQL
+- Data Analysis
+- Machine Learning
+- Data Visualization
+- Statistics
+- Big Data Technologies
+- Cloud Computing
+- Problem-solving
+- Communication
+
+Minimum Years of Experience: 0-2 years
+
+Minimum Degree: B
+
+Minimum GPA: 3.5
+
+Palantir is committed to promoting a diverse and inclusive workplace. We welcome applications from candidates of all backgrounds, including but not limited to race, ethnicity, gender, sexual orientation, gender identity and expression, disability status, and veteran status. We believe that diversity drives innovation and are dedicated to creating an environment where all employees can thrive and contribute to our mission of solving the world's most critical challenges.

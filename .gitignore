@@ -1,3 +1,10 @@
+# Ignore all files in the cache folder
+_cache/
+
+# Ignore all output files
+*output.txt
+*output.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

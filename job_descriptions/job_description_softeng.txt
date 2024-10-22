@@ -1,0 +1,46 @@
+Job Title: Entry-Level Software Engineer
+Company: Google
+Location: Mountain View, CA (On-site)
+Job Type: Full-time
+
+Summary:
+Google is seeking talented, passionate, and creative software engineers to join our team. As an entry-level software engineer, you will work on innovative projects that have the potential to impact millions of users worldwide. You'll collaborate with cross-functional teams to design, develop, test, and deploy software solutions across various Google products and services.
+
+Responsibilities:
+- Develop and maintain scalable software solutions using various programming languages and technologies
+- Collaborate with product managers, UX designers, and other engineers to define and implement new features
+- Write clean, efficient, and well-documented code
+- Participate in code reviews and contribute to engineering best practices
+- Debug and fix software issues across the full-stack
+- Stay up-to-date with emerging technologies and industry trends
+
+Minimum Requirements:
+- Bachelor's degree in Computer Science, Software Engineering, or a related technical field
+- Strong programming skills in one or more of the following: Java, C++, Python, or Go
+- Solid understanding of data structures, algorithms, and software design principles
+- Experience with version control systems (e.g., Git)
+- Excellent problem-solving and analytical skills
+- Strong communication and teamwork abilities
+
+Preferred Qualifications:
+- Experience with web technologies (HTML, CSS, JavaScript)
+- Familiarity with cloud computing platforms (e.g., Google Cloud Platform, AWS)
+- Contributions to open-source projects
+- Internship or project experience in software development
+
+Skills:
+- Programming (Java, C++, Python, Go)
+- Data Structures and Algorithms
+- Software Design
+- Version Control (Git)
+- Problem-solving
+- Communication
+- Teamwork
+
+Minimum Years of Experience: 0-2 years
+
+Minimum Degree: B
+
+Minimum GPA: 3.0
+
+Google is an equal opportunity employer and values diversity in the workplace. We encourage applications from all qualified individuals regardless of race, color, religion, gender, sexual orientation, gender identity or expression, age, national origin, marital status, disability, or veteran status.

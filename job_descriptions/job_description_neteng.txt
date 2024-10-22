@@ -1,0 +1,56 @@
+Job Title: Mid-Level Network Engineer
+Company: Cisco
+Location: San Jose, CA (Hybrid)
+Job Type: Full-time
+
+Summary:
+Cisco is seeking a talented and experienced Mid-Level Network Engineer to join our dynamic team. In this role, you will design, implement, and maintain complex network infrastructures for our global clients. You'll work with cutting-edge technologies and contribute to the evolution of networking solutions that power the internet and enterprise systems worldwide.
+
+Responsibilities:
+- Design and implement scalable, secure, and efficient network architectures
+- Troubleshoot and resolve complex network issues in a timely manner
+- Collaborate with cross-functional teams to integrate network solutions with other IT systems
+- Perform network upgrades and migrations with minimal downtime
+- Develop and maintain network documentation, including diagrams and standard operating procedures
+- Participate in on-call rotations to provide 24/7 support for critical network infrastructure
+- Stay current with emerging networking technologies and industry best practices
+- Mentor junior network engineers and contribute to knowledge sharing within the team
+
+Minimum Requirements:
+- Bachelor's degree in Computer Science, Network Engineering, or a related technical field
+- 3-5 years of hands-on experience in network engineering roles
+- Strong understanding of networking protocols (TCP/IP, OSPF, BGP, EIGRP)
+- Proficiency in configuring and maintaining Cisco routers, switches, and firewalls
+- Experience with WAN technologies (MPLS, SD-WAN)
+- Familiarity with network security principles and best practices
+- Cisco CCNP certification or equivalent experience
+- Excellent problem-solving and analytical skills
+- Strong communication and teamwork abilities
+
+Preferred Qualifications:
+- Master's degree in a relevant field
+- Experience with cloud networking (AWS, Azure, GCP)
+- Knowledge of automation and orchestration tools (Ansible, Python)
+- Familiarity with SDN (Software-Defined Networking) concepts
+- Experience with network monitoring tools (SolarWinds, PRTG, Nagios)
+- CCIE certification or in progress
+
+Skills:
+- Network Design and Implementation
+- Cisco IOS and NX-OS
+- Routing and Switching
+- Network Security
+- Troubleshooting
+- WAN Technologies
+- Network Automation
+- Cloud Networking
+- Documentation
+- Project Management
+
+Minimum Years of Experience: 3 years
+
+Minimum Degree: B
+
+Minimum GPA: Not specified
+
+Cisco is an equal opportunity employer and values diversity in the workplace. We are committed to fostering an inclusive environment where all employees can thrive, regardless of their background, race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or veteran status.
